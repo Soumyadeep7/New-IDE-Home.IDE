@@ -74,8 +74,6 @@ Hello from Home.IDE!
 ⚙️ File Menu Options
 OptionDescriptionNew FileClears the editor for a new scriptOpenOpens an existing .py fileSaveSaves changes to the current fileSave AsSaves the current code as a new fileRunExecutes your Python codeExitCloses the IDE
 
-📸 Screenshot (optional)
-Add a screenshot of your IDE here if available.
 
 🧑‍💻 Future Improvements
 
