@@ -1,7 +1,7 @@
 Home.IDE
 Home.IDE is a lightweight Python-based IDE built using Tkinter. It lets you write, run, and save Python code inside a simple desktop environment. It includes an integrated output console so you can view results directly without using an external terminal.
 
-✨ Features
+✨  Features
 
 
 📝 Create, open, and save .py files
